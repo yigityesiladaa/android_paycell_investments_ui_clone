@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">InvestmentMenuUI</string>
+    <string name="investment_transactions_text">Yatırım İşlemleri tr</string>
+    <string name="my_potfolio_text">Portföyüm</string>
+</resources>
